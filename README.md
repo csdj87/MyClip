@@ -23,7 +23,7 @@
 
 下载按钮
 
-- 蓝奏云：[密码:hwjg](https://wwasz.lanzoul.com/ilWUJ3gwj3qf)
+- 蓝奏云：[密码:d2hm](https://wwasz.lanzoul.com/i0Ef13htg0lc)
 - Github下载链接： [GitHub Releases](https://github.com/csdj87/MyClip/releases)
 
 
